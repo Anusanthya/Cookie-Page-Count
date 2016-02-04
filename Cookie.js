@@ -1,11 +1,11 @@
 ///////////////////////
 // Page Visit Count //
 //////////////////////
-//<!DOCTYPE html>
-//<html>
-//<head>
-//<title>My HomePage</title>
-//<script language = "JavaScript">
+<!DOCTYPE html>
+<html>
+<head>
+<title>My HomePage</title>
+<script language = "JavaScript">
 
 function delSpaces(string){
 	var result = "";
